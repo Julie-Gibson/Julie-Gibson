@@ -4,7 +4,7 @@ I'm a passionate Software Developer specializing in Web Development. I enjoy bui
 ## 🔧 Technologies & Tools
 - Frontend: HTML, CSS, JavaScript, Angular
 - Backend: Spring Boot, ASP.NET Core, Node.js, Express
-- Databases: Oracle mySQL
+- Databases: Oracle mySQL, Postgres
 - Others: Git, RESTful APIs,SAFe agile
 
 ## 🌱 What I'm Currently Working On
